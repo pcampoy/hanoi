@@ -17,6 +17,7 @@ moves = 0
 """
     
     Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi.
+	Pilar.......
 
 """
 
@@ -27,6 +28,9 @@ def show():
     print("------------")
     time.sleep(0.1)
     print()
+
+	lolailo lolailo
+
 
 def step_move(_from, _to):
     global moves
